@@ -1,0 +1,23 @@
+   # Byte-compiled / optimized / DLL files
+   __pycache__/
+   *.py[cod]
+   *$py.class
+
+   # Virtual Environments
+   .venv/
+   env/
+   venv/
+
+   # Environment variables
+   .env
+   .env.*
+
+   # uv / pip cache
+   .cache/
+
+   # OS Generated
+   .DS_Store
+   Thumbs.db
+
+   # Databases (local dedup DB — not shared)
+   *.db
