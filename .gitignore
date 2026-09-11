@@ -37,3 +37,6 @@
 # Python cache
 __pycache__/
 *.py[cod]
+
+# Build metadata
+*.egg-info/
