@@ -21,3 +21,8 @@
 
    # Databases (local dedup DB — not shared)
    *.db
+
+   # Local Database
+   data/*.db
+   data/*.sqlite
+   data/*.sqlite3
