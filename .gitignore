@@ -23,6 +23,17 @@
    *.db
 
    # Local Database
-   data/*.db
-   data/*.sqlite
-   data/*.sqlite3
+   *.db
+   *.sqlite
+   *.sqlite3
+
+   # Python cache
+   __pycache__/
+   *.py[cod]# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
